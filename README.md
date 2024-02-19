@@ -1,10 +1,12 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hamzailyas237&label=Profile%20views&color=0e75b6&style=flat" alt="hamzailyas237" /> </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Ilyas!;" />
 </h1>
 
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Full Stack Web & App Development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fc081.web.app/](https://portfolio-fc081.web.app/)
 
